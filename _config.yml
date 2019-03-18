@@ -1,0 +1,79 @@
+### Site info:
+title: Daniel Alencar da Costa
+tagline: Lecturer (Assistant Professor) at the University of Otago
+university: University of Otago
+university_logo: http://danielcalencar.github.io/images/university_of_otago.png 
+author: Daniel Alencar da Costa
+email: danielcalencar at otago dot ac dot nz 
+description: "My personal website." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Jekyll, theme, Freshman21"
+###baseurl: "/freshman21" # the subpath of your site, e.g. /blog
+url: "https://danielcalencar.github.io" # the base hostname & protocol for your site
+locale: en_US
+encoding: UTF-8
+
+### Personal info and site tools info:
+twitter_username: danielcalencar
+github_username:  danielcalencar
+#disqus_shortname: freshman21
+favicon: #"/images/brasil.ico"
+aboutme: Hi, I am Daniel Alencar da Costa. # these are shown on aboutme-sidebar.
+aboutme_photo: http://danielcalencar.github.io/images/about.jpg # your photo.
+award_photo: "images/trophy.png"
+
+
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Authors: "Authors:"
+      Venue: "Venue:"
+      Preprint: "Preprint:"
+      Taggedwith: "and tagged"  
+      PostDate: "on "
+      BestPaperNomination: "Nominated for best paper award"
+      ACMAward: "ACM SIGSOFT Distinguished paper award"
+      Material: "Material"
+    cn:
+      Aboutme: "关于我"
+      Archives: "存档"
+      Blogroll: "良师益友"        
+      Categories: "分类目录"    
+      Copyright_Notice: "版权声明"
+      Recent_Posts: "近期文章"
+      Tags: "标签" 
+      Previous: "前一页"
+      Next: "后一页"
+      PostedInCategories: "目录:"   
+      Taggedwith: "| 标签:"
+      PostDate: "| 发表时间: "
+
+
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+    - name: Daniel
+      href: danielcalencar.github.io
+      title: My personal website
+    #- name: author's website
+    #  href: http://yulijia.net/
+    #  title: Lijia Yu's website
+
+
+### Build settings
+markdown: kramdown
+highlighter: pygments
+paginate: 20

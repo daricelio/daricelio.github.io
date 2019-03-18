@@ -1,0 +1,186 @@
+code,RQ,occurrences
+risk,RQ1,22
+user expectation,RQ1,20
+compatibility,RQ1,12
+extra testing,RQ1,12
+testing,RQ1,12
+collaboration,RQ1,10
+useless perception,RQ1,10
+timing,RQ1,9
+missed milestones/releases,RQ1,9
+stability,RQ1,9
+useless/unreleased work,RQ1,9
+regression,RQ1,9
+prioritization,RQ1,9
+workload,RQ1,7
+other teams,RQ1,7
+code review,RQ1,7
+visibility,RQ1,7
+extra effort,RQ1,6
+developer pride,RQ1,6
+standardization,RQ1,6
+team cooperation,RQ1,6
+user benefit,RQ1,5
+no delay,RQ1,5
+quality,RQ1,5
+user testing,RQ1,5
+severity,RQ1,5
+marketing,RQ1,5
+integration,RQ1,4
+maintenance,RQ1,4
+code freeze,RQ1,4
+major change,RQ1,4
+communication,RQ1,4
+management,RQ1,4
+security,RQ1,4
+planning,RQ1,4
+business concerns,RQ1,3
+user experience,RQ1,3
+missed ETA,RQ1,3
+blockers,RQ1,3
+consensus,RQ1,3
+performance,RQ1,3
+changing requirements,RQ1,3
+low priority,RQ1,3
+other browsers,RQ1,3
+non-technical reasons,RQ1,2
+third-party websites,RQ1,2
+downtime,RQ1,2
+crash,RQ1,2
+API,RQ1,2
+incompatible changes,RQ1,2
+motivation,RQ1,2
+gradual roll out,RQ1,2
+add-ons,RQ1,2
+complexity,RQ1,2
+user feedback,RQ1,2
+rapid release cycle,RQ1,2
+requirements,RQ1,2
+time-to-market,RQ1,2
+breaking changes,RQ1,1
+new feature,RQ1,1
+competing software,RQ1,1
+non-critical,RQ1,1
+costly integration,RQ1,1
+quality issue,RQ1,1
+incomplete delivery,RQ1,1
+polishment,RQ1,1
+coordination,RQ1,1
+finance,RQ1,1
+feature origin,RQ1,1
+advertisement,RQ1,1
+uptime,RQ1,1
+crashes,RQ1,1
+third-party,RQ1,1
+useless work,RQ1,1
+management approval,RQ1,1
+corner cases,RQ1,1
+technical debt,RQ1,1
+issue disentanglement,RQ1,1
+new bugs,RQ1,1
+risk management,RQ1,1
+user quality,RQ1,1
+documentation,RQ1,1
+merge day,RQ1,1
+side-effects,RQ1,1
+upstream,RQ1,1
+explanation,RQ1,1
+general concerns,RQ1,1
+project delay,RQ1,1
+miss-specification,RQ1,1
+faster delivery,RQ2,25
+faster feedback,RQ2,9
+user feedback,RQ2,8
+more flexibility,RQ2,4
+time-to-market,RQ2,4
+changing web,RQ2,4
+faster fixes,RQ2,3
+stability,RQ2,3
+risk mitigation/distribution,RQ2,3
+better prioritization,RQ2,3
+no impact,RQ2,2
+number of functionalities,RQ2,2
+enhancements,RQ2,2
+quality,RQ2,2
+decouple issues,RQ2,2
+team size,RQ2,2
+security,RQ2,2
+prototyping,RQ2,2
+development momentum,RQ2,2
+motivation,RQ2,2
+slower delivery of large features,RQ2,2
+faster delivery of small issues,RQ2,2
+market pressure,RQ2,2
+faster reaction,RQ2,1
+crash rates,RQ2,1
+impact reduction,RQ2,1
+developer feedback,RQ2,1
+shorter cycle,RQ2,1
+faster delivery of new features,RQ2,1
+slower delivery of important features,RQ2,1
+stagnant PRs,RQ2,1
+bug-fixing time,RQ2,1
+faster integration,RQ2,1
+UML skills,RQ2,1
+minor bugs,RQ2,1
+less changes,RQ2,1
+slower delivery,RQ2,1
+risk,RQ2,1
+benefit,RQ2,1
+market demands,RQ2,1
+happier users,RQ2,1
+quick adoption,RQ2,1
+smaller releases,RQ2,1
+release automation,RQ2,1
+number of bug reports,RQ2,1
+better integration,RQ2,1
+number of releases,RQ2,1
+update fatigue,RQ2,1
+fewer postponed releases,RQ2,1
+user benefit,RQ2,1
+better quality,RQ2,1
+extra effort,RQ2,1
+gradual roll-out,RQ2,1
+frequent collaboration,RQ2,1
+hold ups,RQ2,1
+faster API changes,RQ2,1
+less regressions,RQ2,1
+smaller scope,RQ2,1
+market situation,RQ2,1
+workload,RQ3,11
+time spent,RQ3,6
+agree,RQ3,6
+disagree,RQ3,5
+release training,RQ3,4
+prioritization,RQ3,4
+integration rush,RQ3,3
+team size,RQ3,3
+faster delivery,RQ3,2
+low priority,RQ3,2
+code review,RQ3,2
+dependency,RQ3,2
+not comparable,RQ3,2
+extra testing,RQ3,2
+no delay,RQ3,1
+compatibility,RQ3,1
+time-to-market,RQ3,1
+predictability,RQ3,1
+smaller releases,RQ3,1
+costly integration,RQ3,1
+big changes,RQ3,1
+further delay,RQ3,1
+feature interaction,RQ3,1
+sloppy work,RQ3,1
+project size,RQ3,1
+cherry pick,RQ3,1
+entropy,RQ3,1
+cycle management,RQ3,1
+streamlined delivery,RQ3,1
+tight coupling,RQ3,1
+verification delay,RQ3,1
+extra management,RQ3,1
+effort estimate,RQ3,1
+release-schedule timing,RQ3,1
+consistent development,RQ3,1
+stability,RQ3,1
+high priority,RQ3,1

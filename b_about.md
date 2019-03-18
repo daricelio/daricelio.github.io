@@ -6,7 +6,7 @@ permalink: /about/
 ---   
 
 ### About me
-Welcome to my homepage! Here you can find my publications, courses, and some other material related to my works. My detailed CV is available in Portuguese at <a href=”html://lattes.cnpq.br/7376671815596508”>Lattes Plataform of CV</a>.
+Welcome to my homepage! Here you can find my publications, courses, and some other material related to my works. My detailed CV is available in Portuguese at <a href=”http://lattes.cnpq.br/7376671815596508”>Lattes Plataform of CV </a>.
 
 ### Short Bio
 

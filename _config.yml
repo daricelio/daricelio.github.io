@@ -1,25 +1,24 @@
 ### Site info:
-title: Daniel Alencar da Costa
-tagline: Lecturer (Assistant Professor) at the University of Otago
-university: University of Otago
-university_logo: http://danielcalencar.github.io/images/university_of_otago.png 
-author: Daniel Alencar da Costa
-email: danielcalencar at otago dot ac dot nz 
-description: "My personal website." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+title: Daricélio Moreira Soares
+tagline: Assistant Professor at the Federal University of Acre
+university: Federal University of Acre
+university_logo: http://daricelio.github.io/images/university_of_acre.png 
+author: Daricélio Moreira Soares
+email: daricelio at ufac dot br 
+description: "My personal/professional website." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
 ###baseurl: "/freshman21" # the subpath of your site, e.g. /blog
-url: "https://danielcalencar.github.io" # the base hostname & protocol for your site
+url: "https://daricelio.github.io" # the base hostname & protocol for your site
 locale: en_US
 encoding: UTF-8
 
 ### Personal info and site tools info:
-twitter_username: danielcalencar
-github_username:  danielcalencar
+github_username:  daricelio
 #disqus_shortname: freshman21
 favicon: #"/images/brasil.ico"
-aboutme: Hi, I am Daniel Alencar da Costa. # these are shown on aboutme-sidebar.
-aboutme_photo: http://danielcalencar.github.io/images/about.jpg # your photo.
-award_photo: "images/trophy.png"
+aboutme: Hi, I am Professor Daricélio Soares. # these are shown on aboutme-sidebar.
+aboutme_photo: http://daricelio.github.io/images/about.jpg # your photo.
+award_photo: "images/"
 
 
 ### Site setting:

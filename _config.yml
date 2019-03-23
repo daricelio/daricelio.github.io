@@ -1,4 +1,4 @@
-### Site info:
+﻿### Site info:
 title: Daricélio Moreira Soares
 tagline: Assistant Professor at the Federal University of Acre
 university: Federal University of Acre
@@ -6,7 +6,7 @@ university_logo: http://daricelio.github.io/images/ufac.png
 author: Daricélio Moreira Soares
 email: daricelio at ufac dot br 
 description: "My personal/professional website." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
+keywords: "Daricélio, UFAC"
 ###baseurl: "/freshman21" # the subpath of your site, e.g. /blog
 url: "https://daricelio.github.io" # the base hostname & protocol for your site
 locale: en_US
@@ -22,7 +22,7 @@ award_photo: "images/"
 
 
 ### Site setting:
-ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
+ShowContactInfo: "True" # Personal Info (github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 

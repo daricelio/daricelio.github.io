@@ -1,11 +1,11 @@
----
+﻿---
 layout: page      
 title: Courses
 comments: no   
 permalink: /courses/   
 ---   
 
-### Slides, notes and additional materials
+<p> ### Slides, notes and additional materials </p>
 
 ### 2019.1
 
@@ -18,7 +18,7 @@ permalink: /courses/
  
  <body> 
 
-<a href="http://www.htmlprogressivo.net/">Software Engineering</a>. <p>
-<a href="http://www.htmlprogressivo.net/">Data Mining</a>. <p>
+<p> <a href="http://www.htmlprogressivo.net/">Software Engineering</a> <p>
+<p> <a href="http://www.htmlprogressivo.net/">Data Mining</a> <p>
  
-
+<p> e </p>

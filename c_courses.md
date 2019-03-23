@@ -5,7 +5,7 @@ comments: no
 permalink: /courses/   
 ---   
 
-<p> ### Slides, notes and additional materials </p>
+Slides, notes and additional materials </p>
 
 ### 2019.1
 

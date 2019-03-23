@@ -21,5 +21,4 @@ permalink: /courses/
 <a href="http://www.htmlprogressivo.net/">Software Engineering</a>. <p>
 <a href="http://www.htmlprogressivo.net/">Data Mining</a>. <p>
  
-</body>
-</html>
+

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Groups
-permalink: /Research Groups/
+title: Studants
+permalink: /Studants/
 ---
 

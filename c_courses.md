@@ -18,12 +18,8 @@ permalink: /courses/
  
  <body> 
 
-<<<<<<< HEAD
-<p> <a href="http://www.htmlprogressivo.net/">Software Engineering</a> <p>
-<p> <a href="http://www.htmlprogressivo.net/">Data Mining</a> <p>
-=======
-<a href="https://github.com/daricelio/daricelio.github.io/tree/master/couses/SoftwareEngineering/">Software Engineering</a>. <p>
-<a href="https://github.com/daricelio/daricelio.github.io/tree/master/couses/SoftwareEngineering">Data Mining</a>. <p>
->>>>>>> fcbb77d1a3379579b990f527736c02daa1879cba
- 
-<p> e </p>
+
+<a href="https://github.com/daricelio/daricelio.github.io/tree/master/couses/2019.1/SoftwareEngineering/">Software Engineering</a>. <p>
+<a href="https://github.com/daricelio/daricelio.github.io/tree/master/couses/2019.1/DataMining">Data Mining</a>. <p>
+
+

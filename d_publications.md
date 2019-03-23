@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Categories
-permalink: /categories/
+title: Publications
+permalink: /publications/
 ---
 
 <ul class="tags-box">

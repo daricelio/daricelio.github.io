@@ -17,6 +17,9 @@ permalink: /publications/
 
 ### Conference Papers
 
+<p> Title: <a href="https://ieeexplore.ieee.org/abstract/document/7424445/"> Rejection factors of pull requests filed by core team developers in software projects with high acceptance rates.</a> - IEEE ICMLA'15 </p>
+Autors: Daricélio Soares, Manoel Limeira, <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta</a>, and <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino.</a>
+
 <p> Title: <a href="https://dl.acm.org/citation.cfm?id=2695856"> Acceptance factors of pull requests in open-source projects.</a> - ACM SAC'15 </p>
 Autors: Daricélio Soares, Manoel Limeira, <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta</a>, and <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino.</a>
 

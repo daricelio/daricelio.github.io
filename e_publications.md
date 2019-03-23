@@ -4,23 +4,40 @@ title: Publications
 permalink: /publications/
 ---
 
-<ul class="tags-box">
-{% if site.posts != empty %}
-{% for cat in site.categories %}
-<a href="#{{ cat[0] }}" title="{{ cat[0] }}" rel="{{ cat[1].size }}">{{ cat[0] | join: "/"}}<span class="size"> {{ cat[1].size }}</span></a>
-{% endfor %}
-</ul>
+<html>
+ <head>
+      <meta name="description" content="publications">
+      <meta name="keywords" content="publications">
+      <title> Professor Daricélio Soares Publications </title>
+ </head>
+ 
+ 
+<b>Journal Papers </b>
+ 
+<p> Title: <a href="https://www.sciencedirect.com/science/article/pii/S0164121218301122"> Automatic assignment of integrators to pull requests: The importance of selecting appropriate attributes.</a> - Journal of Systems and Software 144 </p>
+<p>Autors: Manoel Limeira, Daricélio Soares <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino</a>, and <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta.</a> </p>
 
-<ul class="tags-box">
-{% for cat in site.categories %}
-<li id="{{ cat[0] }}">{{ cat[0]}}</li>
-{% for post in cat[1] %}
-<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time> &raquo;
-<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a><br />
-{% endfor %}
-{% endfor %}
-{% else %}
-<span>No posts</span>
-{% endif %}
-</ul>
+<p>------</p>
+
+<p> Title: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584917303804"> What factors influence the reviewer assignment to pull requests?.</a> - Information and Software Technology 98 </p>
+<p>Autors: Daricélio Soares, Manoel Limeira, <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino</a>, and <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta.</a> </p>
+
+<p> </p>
+<p> </p>
+<b>Conference Papers </b>
+
+<p> Title: <a href="https://ieeexplore.ieee.org/abstract/document/7424445/"> Rejection factors of pull requests filed by core team developers in software projects with high acceptance rates.</a> - IEEE ICMLA'15 </p>
+<p>Autors: Daricélio Soares, Manoel Limeira, <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta</a>, and <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino.</a> </p>
+
+<p>------</p>
+
+<p> Title: <a href="https://dl.acm.org/citation.cfm?id=2695856"> Acceptance factors of pull requests in open-source projects.</a> - ACM SAC'15 </p>
+<p>Autors: Daricélio Soares, Manoel Limeira, <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta</a>, and <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino.</a> </p>
+
+<p>------</p>
+
+<p> Title: <a href="https://dl.acm.org/citation.cfm?id=2695884"> Developers assignment for analyzing pull requests.</a> - ACM SAC'15 </p>
+<p>Autors: Manoel Limeira, Daricélio Soares, <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta</a>, and <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino.</a></p>
+
+ <body> 
 

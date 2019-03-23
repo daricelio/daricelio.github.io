@@ -11,15 +11,17 @@ permalink: /publications/
       <title> Professor Daricélio Soares Publications </title>
  </head>
  
- <body> 
+ 
+ ### Journal Papers
 
-### Journal Papers
-
-<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/couses/2019.1/SoftwareEngineering/">Software Engineering</a>. </p> 
-<a href="https://github.com/daricelio/daricelio.github.io/tree/master/couses/2019.1/DataMining">Data Mining</a>. <p>
 
 ### Conference Papers
 
+<p> Title: <a href="https://dl.acm.org/citation.cfm?id=2695856"> Acceptance factors of pull requests in open-source projects.</a> - ACM SAC'15 </p>
+Autors: Daricélio Soares, Manoel Limeira, <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta</a>, and <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino.</a>
 
-<p> Title: <a href="https://dl.acm.org/citation.cfm?id=2695856"> Acceptance factors of pull requests in open-source projects.</a>. </p>  
+<p> Title: <a href="https://dl.acm.org/citation.cfm?id=2695884"> Developers assignment for analyzing pull requests.</a> - ACM SAC'15 </p>
+Autors: Manoel Limeira, Daricélio Soares, <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta</a>, and <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino.</a>
+
+ <body> 
 

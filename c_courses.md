@@ -18,7 +18,7 @@ permalink: /courses/
  
  <body> 
 
-<a href="http://www.htmlprogressivo.net/">Software Engineering</a>. <p>
-<a href="http://www.htmlprogressivo.net/">Data Mining</a>. <p>
+<a href="https://github.com/daricelio/daricelio.github.io/tree/master/couses/SoftwareEngineering/">Software Engineering</a>. <p>
+<a href="https://github.com/daricelio/daricelio.github.io/tree/master/couses/SoftwareEngineering">Data Mining</a>. <p>
  
 

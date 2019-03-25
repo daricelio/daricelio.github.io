@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Students
-permalink: /Students/
+permalink: /People/
 ---
 
 ### Waiting for update

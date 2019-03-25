@@ -13,7 +13,7 @@ Slides, notes and additional materials
  <head>
       <meta name="description" content="Courses">
       <meta name="keywords" content="courses">
-      <title> Professor Daricélio Soares Couses </title>
+      <title> Professor Daricélio Soares Courses </title>
  </head>
  
  <body> 

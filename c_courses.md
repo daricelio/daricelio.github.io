@@ -19,7 +19,7 @@ Slides, notes and additional materials
  <body> 
 
 
-<a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.1/SoftwareEngineering/">Software Engineering</a>. </p>
-<a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.1/DataMining">Data Mining</a>. <p>
+<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.1/SoftwareEngineering/">Software Engineering</a>. </p>
+<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.1/DataMining">Data Mining</a>. </p>
 
 

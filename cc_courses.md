@@ -19,13 +19,11 @@ Slides, notes and additional materials.
  <body> 
 
 
-<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.1/SoftwareEngineering/">Software Engineering</a>. </p>
-<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.1/DDS">Distributed Software Development</a>. </p>
+<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.2/SoftwareEngineering1/">Software Engineering - Part I</a>. </p>
 
 
 
-
-### 2019.1
+2019.1
 
 <html>
  <head>
@@ -37,7 +35,7 @@ Slides, notes and additional materials.
  <body> 
 
 
-<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.1/SoftwareEngineering/">Software Engineering</a>. </p>
+<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.1/SoftwareEngineering2/">Software Engineering - Part II</a>. </p>
 <p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.1/DDS">Distributed Software Development</a>. </p>
 
 

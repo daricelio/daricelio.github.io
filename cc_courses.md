@@ -19,7 +19,7 @@ Slides, notes and additional materials.
  <body> 
 
 
-<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.2/SoftwareEngineering1/">Software Engineering - Part I</a>. </p>
+<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.2/SoftwareEngineering1/">Software Engineering - Part I (Portuguese Brazil)</a>. </p>
 
 
 

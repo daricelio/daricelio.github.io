@@ -21,7 +21,7 @@ Slides, notes and additional materials.
 
 <p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.2/SoftwareEngineering1/">Software Engineering - Part I (Portuguese Brazil)</a>. </p>
 <p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.2/DecisionSupportSystems/">Decision Support Systems (Portuguese Brazil)</a>. </p>
-
+<p> <a href="https://github.com/daricelio/daricelio.github.io/tree/master/courses/2019.2/DataMining/">Data Mining (Portuguese Brazil)</a>. </p>
 
 
 2019.1

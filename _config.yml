@@ -76,3 +76,5 @@ Blogroll:
 markdown: kramdown
 highlighter: pygments
 paginate: 20
+
+theme: jekyll-theme-tactile

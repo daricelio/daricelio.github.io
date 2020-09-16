@@ -29,6 +29,8 @@ permalink: /publications/
 <p> Title: Measuring unique changes: how do distinct changes affect the size and lifetime of pull requests?</a> - Accepted: ACM SBCARS'20 </p>
 <p>Authors: Daniel Silva, Daricélio Soares and Silvana Andrade. </p>
 
+<p>------</p>
+
 <p> Title: <a href="https://ieeexplore.ieee.org/abstract/document/7424445/"> Rejection factors of pull requests filed by core team developers in software projects with high acceptance rates.</a> - IEEE ICMLA'15 </p>
 <p>Authors: Daricélio Soares, Manoel Limeira, <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta</a>, and <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino.</a> </p>
 

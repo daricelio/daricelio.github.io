@@ -26,7 +26,7 @@ permalink: /publications/
 <p> </p>
 <b>Conference Papers </b>
 
-<p> Title: Measuring unique changes: how do distinct changes affect the size and lifetime of pull requests?</a> - Accepted: ACM SBCARS'20 </p>
+<p> Title: Measuring unique changes: how do distinct changes affect the size and lifetime of pull requests? - Accepted: ACM SBCARS'20 </p>
 <p>Authors: Daniel Silva, Daricélio Soares and Silvana Andrade. </p>
 
 <p>------</p>

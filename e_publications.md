@@ -26,10 +26,16 @@ permalink: /publications/
 <p> </p>
 <b>Conference Papers </b>
 
-<p> Title: Measuring unique changes: how do distinct changes affect the size and lifetime of pull requests? - Accepted: ACM SBCARS'20 </p>
+ <p> Title: <a href="https://dl.acm.org/doi/abs/10.1145/3483899.3483906"> Temporal analysis on pull request patterns: an approach with sliding window - ACM SBCARS'21 </p>
+<p>Authors:  Silvana Andrade, Daricélio Soares and Daniel Silva. </p>
+
+<p>------</p>
+ 
+ <p> Title: <a href="https://dl.acm.org/doi/abs/10.1145/3425269.3425280"> Measuring unique changes: how do distinct changes affect the size and lifetime of pull requests? - ACM SBCARS'20 </p>
 <p>Authors: Daniel Silva, Daricélio Soares and Silvana Andrade. </p>
 
 <p>------</p>
+ 
 
 <p> Title: <a href="https://ieeexplore.ieee.org/abstract/document/7424445/"> Rejection factors of pull requests filed by core team developers in software projects with high acceptance rates.</a> - IEEE ICMLA'15 </p>
 <p>Authors: Daricélio Soares, Manoel Limeira, <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta</a>, and <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino.</a> </p>

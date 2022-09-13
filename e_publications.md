@@ -14,6 +14,16 @@ permalink: /publications/
  
 <b>Journal Papers </b>
  
+ <p> Title: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2337"> Predicting the lifetime of pull requests in open-source projects.</a> - Journal of Software: Evolution and Process 33 </p>
+<p>Authors: Manoel Limeira, Daricélio Soares <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino</a>, and <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta.</a> </p>
+
+<p>------</p>
+
+ 
+ <p> Title: <a href="[https://www.sciencedirect.com/science/article/abs/pii/S0950584917303804](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2946)"> What factors influence the lifetime of pull requests?.</a> - Journal of Software: Practice and Experience 51 </p>
+<p>Authors: Daricélio Soares, Manoel Limeira, <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino</a>, and <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta.</a> </p>
+ <p>------</p>
+ 
 <p> Title: <a href="https://www.sciencedirect.com/science/article/pii/S0164121218301122"> Automatic assignment of integrators to pull requests: The importance of selecting appropriate attributes.</a> - Journal of Systems and Software 144 </p>
 <p>Authors: Manoel Limeira, Daricélio Soares <a href="https://scholar.google.com.br/citations?user=axlvTZoAAAAJ&hl=pt-BR"> Alexandre Plastino</a>, and <a href="https://scholar.google.com.br/citations?user=VEbJeB8AAAAJ&hl=pt-BR"> Leonardo Murta.</a> </p>
 

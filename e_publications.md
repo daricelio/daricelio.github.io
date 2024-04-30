@@ -36,7 +36,12 @@ permalink: /publications/
 <p> </p>
 <b>Conference Papers </b>
 
- <p> Title: <a href="https://dl.acm.org/doi/abs/10.1145/3483899.3483906"> Temporal analysis on pull request patterns: an approach with sliding window - ACM SBCARS'21 </p>
+ <p> Title: <a href="https://dl.acm.org/doi/abs/10.1145/3559712.3559722"> Temporal analysis on pull request patterns: an approach with sliding window - ACM SBCARS'22 </p>
+<p>Authors:  Cleyciane Lima and Daricélio Soares. </p>
+
+<p>------</p>
+
+ <p> Title: <a href="https://dl.acm.org/doi/abs/10.1145/3483899.3483906"> On the Nature of Duplicate Pull Requests: An Empirical Study Using Association Rules </p>
 <p>Authors:  Silvana Andrade, Daricélio Soares and Daniel Silva. </p>
 
 <p>------</p>
